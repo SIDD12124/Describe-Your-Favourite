@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+*{
+font-family:'Courgette',cursive;
+}
+
+body{
+  text-align:center;
+  background-image: linear-gradient( #15cf78 0%,#0dd6e0 100%);\
+
+}
+h1{
+ 
+  font-size:20px;
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+
+img {
+  border-radius:50%;
+  width:100px;
+}
+
+a{
+    display:inline-block;
+  margin: 0 3px;
+  text-decoration:none;
+  padding:3px;
+  color: green;
+  font-weight:bold;
+}
+
+li{
+  display:inline-block;
+  margin:10px;
+  BORDER-right: 3px solid white;
+  padding-right: 20px;
+   BORDER-left: 3px solid white;
+  padding-left: 20px;
+  
+}
+
+ul{
+  background:red;
+}
+
+i{
+  color:white;
+}
+
+.bill_gates{
+  height:200px;
+  width:200px;
+}
+
+.me{
+  border-radius:30px;
+  border:10px solid red;
+}
+
+h1{
+  width:100%;
+  background:yellow;
+  color:blue;
+  font-weight:bold;
+  padding:10px
+}
